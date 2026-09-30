@@ -9,6 +9,7 @@ body{
 
 p{
     font-size: 16;
+    
 }
 
 .card{
@@ -22,4 +23,10 @@ p{
 .card-container{
     display: flex;
     gap: 20px;
+}
+
+.navigate{
+    font-size: 24;
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
